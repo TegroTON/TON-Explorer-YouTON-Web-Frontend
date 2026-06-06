@@ -43,6 +43,12 @@ YouTON is a cutting-edge frontend website designed as a comprehensive explorer f
 * Advanced search functions for blocks, transactions, and addresses
 * Secure and reliable access to network information
 
+## Tech Stack
+
+- **Frontend:** PHP-served web UI
+- **Purpose:** Explorer for blocks, transactions and addresses on the TON network
+- **Design:** Crafted in Figma by uNerd for Tegro
+
 ## Roadmap
 
 Our journey is ongoing, and we're always looking to improve. Visit our [issues page](https://github.com/TegroTON/TON-Explorer-YouTON-Web-Frontend/issues) to view a list of upcoming features, enhancements, and known issues. Your feedback and suggestions are invaluable in shaping the future of YouTON.
@@ -75,3 +81,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 * [uNerd](https://github.com/DimaTsilenko)
 * [yrdevel](https://github.com/yrdevel)
 * [Andrey Pfau](https://github.com/andreypfau)
+## 🌐 Tegro Ecosystem
+
+Part of the open-source **Tegro** DeFi & Web3 ecosystem:
+
+- 🔁 **DEX (Tegro Finance)** — https://tegro.finance
+- 💳 **Payments (Tegro Money)** — https://tegro.money
+- 👛 **Wallet** — https://t.me/TegroMoneyBot
+- 💬 **Community** — https://t.me/TegroMoney
+- 🏠 **All open-source repos** — https://github.com/TegroTON
