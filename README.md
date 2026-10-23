@@ -74,9 +74,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors and Acknowledgements
 
-* **DeFiTON** - *Sviatoslav Gusev* - [DeFiTON](https://github.com/DeFiTON/) - *CPO*
-
-  Special thanks to our contributors:
+Special thanks to our contributors:
   
 * [uNerd](https://github.com/DimaTsilenko)
 * [yrdevel](https://github.com/yrdevel)
